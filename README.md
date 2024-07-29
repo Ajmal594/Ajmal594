@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ajmal Hameed.
+- 👋 Hi, I’m Mehran.
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning python and machine learning.
 - 💞️ I’m looking to collaborate on Data Science
