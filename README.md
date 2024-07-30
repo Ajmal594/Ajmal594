@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Mehran.
+- 👋 Hi, I’m Ajmal Hameed.
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning python and machine learning.
 - 💞️ I’m looking to collaborate on Data Science
 - 📫 you can reach me ajmalnaemi786@gmail.com
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: witty
 
 <!---
